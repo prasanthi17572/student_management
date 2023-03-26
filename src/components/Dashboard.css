@@ -1,0 +1,42 @@
+.d{
+    align-items: center;
+    display: flex;
+    list-style: none;
+}
+.d1{
+    background-color: salmon;
+    margin-right: 50px;
+    margin-top: 100px;
+    margin-left: 200px;
+    width: 250px;
+    height: 300px;
+    text-align: center;
+    border-radius: 10px;
+    font-size: 20px;
+
+}
+.d2{
+    background-color: salmon;
+    margin-right: 50px;
+    margin-top: 100px;
+    margin-left: 50px;
+    width: 250px;
+    height: 300px;
+    text-align: center;
+    list-style: none;
+    border-radius: 10px;
+    font-size: 20px;
+
+}
+.d3{
+    background-color: salmon;
+    margin-right: 50px;
+    margin-top: 100px;
+    margin-left: 50px;
+    width: 250px;
+    height: 300px;
+    text-align: center;
+    border-radius: 10px;
+    font-size: 20px;
+
+}
